@@ -86,7 +86,8 @@ led_pwm_interrupt_driver/
 └── README.md                                                                                                                                                                                  
 
 
-![Uploading image.png…]()
+<img width="3024" height="4032" alt="image" src="https://github.com/user-attachments/assets/4e891f63-16fb-4dc5-b992-8d9bfd9e4309" />
+
 
 
 ## 🛠️ Tech Stack
