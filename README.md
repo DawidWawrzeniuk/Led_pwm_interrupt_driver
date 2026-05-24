@@ -58,10 +58,11 @@ The system controls LED brightness using:
 ---
 
 ## 📁 Project Structure (layered view)
-led_pwm_interrupt_driver/
+
+led_pwm_interrupt_driver/                                                                                                                                                                      
 ├── Inc/
-│ ├── ADC_driver.h                                                                                                                                                                             
-│ ├── GPIO_driver.h                                                                                                                                                                            
+│ ├── ADC_driver.h
+│ ├── GPIO_driver.h
 │ ├── TIMER_driver.h
 │ ├── SYSTICK_driver.h
 │ ├── led_logic.h
