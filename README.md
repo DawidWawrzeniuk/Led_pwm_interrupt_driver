@@ -60,30 +60,30 @@ The system controls LED brightness using:
 ## 📁 Project Structure (layered view)
 
 led_pwm_interrupt_driver/                                                                                                                                                                      
-├── Inc/
-│ ├── ADC_driver.h
-│ ├── GPIO_driver.h
-│ ├── TIMER_driver.h
+├── Inc/                                                                                                                                                                                       
+│ ├── ADC_driver.h                                                                                                                                                                             
+│ ├── GPIO_driver.h                                                                                                                                                                            
+│ ├── TIMER_driver.h                                                                                                                                                                           
 │ ├── SYSTICK_driver.h
-│ ├── led_logic.h
-│ ├── main.h
-│ └── prototypes.h
-│
-├── Src/
-│ ├── main.c
-│ ├── app.c
-│ ├── ADC_driver.c
-│ ├── GPIO_driver.c
-│ ├── TIMER_driver.c
-│ ├── SYSTICK_driver.c
-│ └── led_logic.c
-│
-├── Drivers/
-│ └── CMSIS/
-│
-├── Debug/
-├── Release/
-└── README.md
+│ ├── led_logic.h                                                                                                                                                                              
+│ ├── main.h                                                                                                                                                                                   
+│ └── prototypes.h                                                                                                                                                                             
+│                                                                                                                                                                                              
+├── Src/                                                                                                                                                                                       
+│ ├── main.c                                                                                                                                                                                   
+│ ├── app.c                                                                                                                                                                                    
+│ ├── ADC_driver.c                                                                                                                                                                             
+│ ├── GPIO_driver.c                                                                                                                                                                            
+│ ├── TIMER_driver.c                                                                                                                                                                           
+│ ├── SYSTICK_driver.c                                                                                                                                                                         
+│ └── led_logic.c                                                                                                                                                                              
+│                                                                                                                                                                                              
+├── Drivers/                                                                                                                                                                                   
+│ └── CMSIS/                                                                                                                                                                                   
+│                                                                                                                                                                                              
+├── Debug/                                                                                                                                                                                     
+├── Release/                                                                                                                                                                                  
+└── README.md                                                                                                                                                                                  
 
 
 
