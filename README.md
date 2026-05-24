@@ -88,7 +88,7 @@ led_pwm_interrupt_driver/
 
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/4e891f63-16fb-4dc5-b992-8d9bfd9e4309"
+<img src="https://github.com/user-attachments/assets/b5e7cec9-ac88-4446-8072-096728dd6566"
      width="400"
      style="border: 2px solid #ccc; border-radius: 10px; padding: 5px;">
 
