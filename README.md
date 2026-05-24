@@ -100,4 +100,3 @@ led_pwm_interrupt_driver/
 
 ---
 
-## 📁 Project Structure
