@@ -1,0 +1,5 @@
+../Src/ADC_driver.c:8:6:ADC_Configure	4
+../Src/ADC_driver.c:55:6:ADC_Input0GpioConfigure	1
+../Src/ADC_driver.c:60:6:ADC_ChannelSelection	1
+../Src/ADC_driver.c:66:6:ADC_Conversion	2
+../Src/ADC_driver.c:74:10:ADC_ReadData	1

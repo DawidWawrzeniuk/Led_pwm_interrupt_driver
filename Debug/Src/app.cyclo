@@ -1,0 +1,4 @@
+../Drivers/CMSIS/Include/core_cm4.h:1816:22:__NVIC_SetPriority	2
+../Drivers/CMSIS/Include/core_cm4.h:2022:26:SysTick_Config	2
+../Src/app.c:7:6:App_Run	1
+../Src/app.c:14:6:App_Init	1

@@ -1,0 +1,4 @@
+../Src/GPIO_driver.c:6:6:Configure_PA5	4	static
+../Src/GPIO_driver.c:16:6:Configure_PA1	4	static
+../Src/GPIO_driver.c:24:6:ConfigurePA6	4	static
+../Src/GPIO_driver.c:38:10:Is_Button_Pressed	16	static

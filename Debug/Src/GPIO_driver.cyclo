@@ -1,0 +1,4 @@
+../Src/GPIO_driver.c:6:6:Configure_PA5	1
+../Src/GPIO_driver.c:16:6:Configure_PA1	1
+../Src/GPIO_driver.c:24:6:ConfigurePA6	1
+../Src/GPIO_driver.c:38:10:Is_Button_Pressed	1

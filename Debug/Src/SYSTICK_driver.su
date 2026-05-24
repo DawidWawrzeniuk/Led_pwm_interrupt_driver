@@ -1,0 +1,2 @@
+../Src/SYSTICK_driver.c:4:6:SysTick_Handler	4	static
+../Src/SYSTICK_driver.c:9:10:GetSystemTick	4	static
