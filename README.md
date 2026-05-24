@@ -93,10 +93,6 @@ led_pwm_interrupt_driver/
      style="border: 2px solid #ccc; border-radius: 10px; padding: 5px;">
 
 </div>
-<img src="URL"
-     width="400"
-     style="transform: rotate(-90deg); border: 1px solid #ccc; border-radius: 8px;">
-
 
 ## 🛠️ Tech Stack
 
